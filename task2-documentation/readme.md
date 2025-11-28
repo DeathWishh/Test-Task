@@ -47,7 +47,7 @@ sudo apt install python3-pytest
 ### 4. Проверка установки
 
 ```bash
-python -c "from socks5_native import parse_handshake; print('✅ Native library loaded successfully')"
+python3 -c "from socks5_native import parse_handshake; print('✅ Native library loaded successfully')"
 ```
 
 ## Запуск
