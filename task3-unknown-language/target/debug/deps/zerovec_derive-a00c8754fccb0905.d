@@ -1,0 +1,10 @@
+/home/vboxuser/Downloads/socks5-proxy-test/task3-unknown-language/target/debug/deps/libzerovec_derive-a00c8754fccb0905.so: /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/lib.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/make_ule.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/make_varule.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/ule.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/utils.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/varule.rs
+
+/home/vboxuser/Downloads/socks5-proxy-test/task3-unknown-language/target/debug/deps/zerovec_derive-a00c8754fccb0905.d: /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/lib.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/make_ule.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/make_varule.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/ule.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/utils.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/varule.rs
+
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/lib.rs:
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/make_ule.rs:
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/make_varule.rs:
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/ule.rs:
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/utils.rs:
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.2/src/varule.rs:

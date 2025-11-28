@@ -1,0 +1,14 @@
+/home/vboxuser/Downloads/socks5-proxy-test/task3-unknown-language/target/debug/deps/libserde-cc080bbff2cb7451.rmeta: /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs /home/vboxuser/Downloads/socks5-proxy-test/task3-unknown-language/target/debug/build/serde-939f2e17ec8286a6/out/private.rs
+
+/home/vboxuser/Downloads/socks5-proxy-test/task3-unknown-language/target/debug/deps/libserde-cc080bbff2cb7451.rlib: /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs /home/vboxuser/Downloads/socks5-proxy-test/task3-unknown-language/target/debug/build/serde-939f2e17ec8286a6/out/private.rs
+
+/home/vboxuser/Downloads/socks5-proxy-test/task3-unknown-language/target/debug/deps/serde-cc080bbff2cb7451.d: /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs /home/vboxuser/Downloads/socks5-proxy-test/task3-unknown-language/target/debug/build/serde-939f2e17ec8286a6/out/private.rs
+
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs:
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs:
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs:
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs:
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs:
+/home/vboxuser/Downloads/socks5-proxy-test/task3-unknown-language/target/debug/build/serde-939f2e17ec8286a6/out/private.rs:
+
+# env-dep:OUT_DIR=/home/vboxuser/Downloads/socks5-proxy-test/task3-unknown-language/target/debug/build/serde-939f2e17ec8286a6/out

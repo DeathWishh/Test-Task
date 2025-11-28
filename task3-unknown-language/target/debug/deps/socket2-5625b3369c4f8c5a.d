@@ -1,0 +1,11 @@
+/home/vboxuser/Downloads/socks5-proxy-test/task3-unknown-language/target/debug/deps/libsocket2-5625b3369c4f8c5a.rmeta: /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/lib.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/sockaddr.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/socket.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/sockref.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/sys/unix.rs
+
+/home/vboxuser/Downloads/socks5-proxy-test/task3-unknown-language/target/debug/deps/libsocket2-5625b3369c4f8c5a.rlib: /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/lib.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/sockaddr.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/socket.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/sockref.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/sys/unix.rs
+
+/home/vboxuser/Downloads/socks5-proxy-test/task3-unknown-language/target/debug/deps/socket2-5625b3369c4f8c5a.d: /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/lib.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/sockaddr.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/socket.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/sockref.rs /home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/sys/unix.rs
+
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/lib.rs:
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/sockaddr.rs:
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/socket.rs:
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/sockref.rs:
+/home/vboxuser/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.6.1/src/sys/unix.rs:
